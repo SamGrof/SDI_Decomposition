@@ -1,6 +1,8 @@
 Index Decomposition of the Drivers Behind the Sustainable Development Index of Costa Rica (1990-2022)
 
-Costa Rica has the highest Sustainable Development Index (SDI) of all countries (Hickel, Jason. 2020). In this work, we aim to gain insights into the material conditions and sociometabolic patterns behind this success.
+Costa Rica has the highest Sustainable Development Index (SDI) of all countries (Hickel, Jason. 2020). In this work, we aim to gain insights into the material conditions and sociometabolic patterns behind this success. 
+
+The carried out analysis, the summary of the results, along with a broader discussion and outlook, can be found in the Jupyter notebook script "SDI_Index_Decomposition_Costa_Rica_July_24.ipynb." In the following, we outline the current state of the literature and introduce our methods.
 
 Note: This is not a peer-reviewed scientific work. It aims to demonstrate the author’s (Simon Graf) ability to work scientifically with Python, data, and GitHub. However, the ideas developed and the analysis carried out are original and offer a promising approach to understanding the metabolic patterns of Costa Rica and sustainable development pathways in general.
 
